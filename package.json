@@ -1,0 +1,10 @@
+{
+  "name": "backend-with-nodejs",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "bmaxtar <bmaxtar@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
